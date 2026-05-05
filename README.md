@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Performance Dashboard (Power BI)
+# 📊 [Superstore Sales Performance Dashboard Power BI](https://github.com/justvictorav/power-BI/blob/main/dashboard.pbit)
 
 ## 🔍 Project Overview
 This project analyzes retail sales performance using Power BI, focusing on revenue, order volume, profitability, and shipping trends across different customer segments and regions.
@@ -52,13 +52,8 @@ The dashboard provides an interactive view of business performance between 2022 
 
 ---
 
-## 🌐 Live Dashboard
-(Add your Power BI Service link here if available)
-
----
-
 ## 📁 Files Included
-- Superstore_Dashboard.pbit (Power BI Template - no raw data)  
+![dashboard](dashboard.pbit)  
 
 ---
 
