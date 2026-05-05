@@ -47,7 +47,7 @@ The dashboard provides an interactive view of business performance between 2022 
 
 ---
 
-## 📷 Dashboard Screenshot
+## 📷 Dashboard Overview
 ![over](over.jpeg)
 
 ---
